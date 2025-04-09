@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+pyzbar
+opencv-python
+Pillow
